@@ -1,2 +1,2 @@
-# practicing-git
-Practice git version control system 
+# Git Command Practice 
+Practice git version control system in this repo 
